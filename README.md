@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @m0jeed
 - 👀 I’m interested in Application Development and Security
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on any project that involve app development(node.js)
+- 💞️ I’m looking to collaborate on any project that involve app development(node.js & Laravel PHP)
 - 📫 You can reach me on mojeedeji@gmail.com
 
 <!---
